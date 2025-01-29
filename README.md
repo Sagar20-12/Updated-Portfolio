@@ -1,8 +1,8 @@
 # 🚀 My Portfolio Website
 
 Welcome to the repository for my personal portfolio website! This is where I showcase my skills, projects, and a bit of my personality through jaw-dropping 3D animations, slick interactions, and fluid motion. If you're into creative web design, you're in the right place.
+![landing](https://github.com/user-attachments/assets/01a77eb7-0ed5-4c83-aff2-d44209a0d3ca)
 
-![Portfolio Preview](https://github.com/Naresh-Khatri/Portfolio/blob/main/public/assets/projects-screenshots/portfolio/landing.png?raw=true)
 
 ## 🔥 Features
 
